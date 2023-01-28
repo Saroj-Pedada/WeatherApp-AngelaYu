@@ -1,0 +1,13 @@
+h1 {
+    color: red;
+}
+
+a, a:hover, a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:active {
+    color: blueviolet;
+    text-decoration: none;
+}
